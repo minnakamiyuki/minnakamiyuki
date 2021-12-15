@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minnakamiyuki
-- 👀 I’m interested in Interactive Theorem Proving, Operating System and IDE Building
-- 🌱 I’m currently learning Lean 3, a proof assistant created by MSR
+- 👀 I’m interested in Interactive Theorem Proving, Operating System and IDE Engineering
+- 🌱 I’m currently learning Lean 3, a proof assistant mainly contributed by MSR
 - 📫 How to reach me: minnakamiyuki@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnakamiyuki&layout=compact&theme=tokyonight&card_width=445)](https://github.com/minnakamiyuki/github-readme-stats)
