@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @minnakamiyuki
-- 👀 I’m interested in Interactive Theorem Proving, Operating System and IDE Engineering
-- 🌱 I’m currently learning Lean 3, a proof assistant mainly contributed by MSR
-- 📫 How to reach me: minnakamiyuki@gmail.com
+ 👋 Hi, I’m @minnakamiyuki
+ 
+ 👀 I’m interested in Interactive Theorem Proving, Operating System and IDE Engineering
+ 
+ 🌱 I’m currently learning Lean 3, a proof assistant mainly contributed by MSR
+ 
+ 📫 How to reach me: minnakamiyuki@gmail.com
+ 
+ ![Minakami Yuki's CodeWars Profile Badges](https://www.codewars.com/users/MinakamiYuki/badges/large)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnakamiyuki&layout=compact&theme=tokyonight&card_width=445)](https://github.com/minnakamiyuki/github-readme-stats)
 [![Minakami Yuki's github stats](https://github-readme-stats.vercel.app/api?username=minnakamiyuki&theme=tokyonight&line_height=22 "![Minakami Yuki's github stats")](https://github.com/minnakamiyuki/github-readme-stats)
