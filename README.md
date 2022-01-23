@@ -18,11 +18,10 @@
  - LLVM Kaleidoscope https://llvm.org
  - Word Power Made Easy! I'm currently preparing for my *GRE* exam
 ---
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnakamiyuki&layout=compact&theme=tokyonight&card_width=400)](https://github.com/minnakamiyuki/github-readme-stats)
  
- <img src="https://user-images.githubusercontent.com/84240546/150674697-55c92bff-5a9a-4301-8cd3-476cdd0c92af.png" width="450px" style="height:280px" />
+ <img src="https://user-images.githubusercontent.com/84240546/150674697-55c92bff-5a9a-4301-8cd3-476cdd0c92af.png" width="450px" style="height:300px" />
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnakamiyuki&layout=compact&theme=tokyonight&card_width=400)](https://github.com/minnakamiyuki/github-readme-stats)
 <!---
 minnakamiyuki/minnakamiyuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
