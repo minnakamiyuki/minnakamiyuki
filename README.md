@@ -17,6 +17,7 @@
  - **Svelte** https://svelte.dev
  - **LLVM Kaleidoscope** https://llvm.org
  - **Word Power Made Easy!** I'm currently preparing for my *GRE* exam
+ ## ⚛️ I'm currently looking for an internship
 ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnakamiyuki&layout=compact&theme=tokyonight&card_width=400)](https://github.com/minnakamiyuki/github-readme-stats)
  
