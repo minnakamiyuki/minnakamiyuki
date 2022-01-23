@@ -5,7 +5,7 @@
    - Github Organization: [gihub.com/whu-lambda](https://github.com/Whu-Lambda)
    - Offical Website: [whu-lambda.moe](https://whu-lambda.moe) 
    - Production Repository: [λ Cube](https://github.com/Whu-Lambda/Lambda-Cube)
- - **Mengxiang Jia**: A Wechat applet for Wuhan University students.
+ - **Mengxiang Jia**: A Wechat applet for Wuhan University students
    - Github Organization: [github.com/forestsay](https://github.com/forestsay)
    - No public repository but a lot of private ones
  - **Cenxi.js**: A very simple React-like framework
