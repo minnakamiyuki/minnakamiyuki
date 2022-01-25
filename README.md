@@ -1,7 +1,7 @@
  ### Hi there 👋
  
  ## 🔭 I’m currently working on
- - **Whu Lambda**
+ - **Whu Lambda**: A community of functional programmers
    - Github Organization: [gihub.com/whu-lambda](https://github.com/Whu-Lambda)
    - Offical Website: [whu-lambda.moe](https://whu-lambda.moe) 
    - Production Repository: [λ Cube](https://github.com/Whu-Lambda/Lambda-Cube)
