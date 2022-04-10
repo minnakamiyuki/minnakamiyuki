@@ -8,14 +8,14 @@
  - **Mengxiang Jia**: A Wechat applet for Wuhan University students
    - Github Organization: [github.com/forestsay](https://github.com/forestsay)
    - No public repository but a lot of private ones
- - **Cenxi.js**: A very simple React-like framework
+ - **Lambda Cube**: Our Sharing Session Handouts
  - **Planning my future**
  ## 🌱 I’m currently learning
- - **TypeScript** https://typescriptlang.org
+ - **Coq** https://coq.inria.fr/
+ - **LLVM** https://llvm.org
  - **Rust** https://rust-lang.org
- - **React** https://reactjs.org
- - **Svelte** https://svelte.dev
- - **LLVM Kaleidoscope** https://llvm.org
+ - **HoTT** https://homotopytypetheory.org/
+ - **TLA+** https://lamport.azurewebsites.net/tla/tla.html
  - **Word Power Made Easy!** I'm currently preparing for my *GRE* exam
  ## ⚛️ I'm currently looking for an internship
 ---
