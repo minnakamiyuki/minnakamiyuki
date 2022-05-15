@@ -2,10 +2,11 @@
  
  ## 🔭 I’m currently working on
  - **Whu Lambda**: A community of functional programmers
-   - Github Organization: [gihub.com/whu-lambda](https://github.com/Whu-Lambda)
+   - Github Organization: [github.com/whu-lambda](https://github.com/Whu-Lambda)
    - Offical Website: [whu-lambda.moe](https://whu-lambda.moe) 
    - Production Repository: [λ Cube](https://github.com/Whu-Lambda/Lambda-Cube)
  - **Lambda Cube**: Our Sharing Session Handouts
+ - **Lambda Collection**: A collection of our works
  - **Planning my future**
  ## 🌱 I’m currently learning
  - **Coq** https://coq.inria.fr/
